@@ -3,6 +3,8 @@ Main Findings
   This sensor uses a time of flight ranging method that involves transmitting pulses of light in a unique pattern.
   Receiving the light after it bounces off an object, and then an algorithm is used to identify the light pattern from ambient noise. 
   The Sweep also uses an optical encoder to record the angle for each range data point. 
-  The orientation of the Sweep can be determined by the status LED, which begins a scan and points at 0°.  
-	Specifications: See Datasheet for additional details.
-	file:///C:/Users/jridg/Desktop/Individual%20Project/Sweep_user_manual.pdf
+  The orientation of the Sweep can be determined by the status LED, which begins a scan and points at 0°.
+  
+Specifications: See Datasheet for additional details.
+
+https://www.robotshop.com/media/files/pdf2/sweep_user_manual.pdf
