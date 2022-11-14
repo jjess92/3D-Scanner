@@ -5,3 +5,4 @@ Main Findings
   The Sweep also uses an optical encoder to record the angle for each range data point. 
   The orientation of the Sweep can be determined by the status LED, which begins a scan and points at 0°.  
 	Specifications: See Datasheet for additional details.
+	file:///C:/Users/jridg/Desktop/Individual%20Project/Sweep_user_manual.pdf
