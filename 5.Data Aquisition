@@ -1,1 +1,10 @@
+Once the .csv has been collected from the pi, we can now view the scans. 
+To do so, Sweep Visualizer BETA must be downloaded, the link below will take you to the download page.
 
+http://scanse.io/downloads
+
+Once the program is installed: 
+   1. Open the program on your desktop.
+   2. Click on the MAP tab.
+   3. Next, click on ADD POINTCLOOUD
+   4. Once your file is uploaded, you can view your scan with ease.
