@@ -1,4 +1,7 @@
-To initiate a scan, the user must first upload the system code via the link provided. 
+To initiate a scan, the user must first upload the system code provided.
+The code provided is the product of the Scanse Sweep 3D Scanner Git-Hub Community. 
+I do not claim rights or credit for the software used in this project but I hope to add to the code eventually (after more deep diving).
+If the code provided does not work, follow the link below to find the latest update to the software.
 
 https://github.com/scanse/sweep-3d-scanner
 
