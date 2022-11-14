@@ -1,1 +1,6 @@
-
+After looking into the process of mounting the scanner on its side and rotating about the z axis, I needed to look for guidance on a system.
+I found a ton of help within the Scanse and GitHub communities. 
+I found a complete list of instructions for a project that does exctly what I needed to do.
+Once all of the parts were ordered, I printed the housing on my Ender 3 Pro.
+All of the parts needed were readily available except for the battery pack that fits in the lowere housing.
+Since I could not aquire the correct battery, I designed and printed an alterior base to close the housing without the suggested lower portion.
