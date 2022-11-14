@@ -1,1 +1,11 @@
-
+After completing this build and reveiwing the scan, I was pretty pleased with the quality of the scan. 
+Althouh, my knowledge of LIDAR and scanning began here, I still believe this is a great gateway project to understanding LIDAR and 3D scanning.
+I found the scanner to be pretty accurate with the datasheet. 
+I have included Milestone #2 which is a powerpoint presentation that gives another overview of this project.
+In this powerpoint you can view the scan that i made for the assignment.
+The sensor was able to detect the amount of reflectiveness for each point so different materials can be identified.
+If you view this scan, you will notice that the window in the door does not reflect the signal so it is void. 
+The soft backs of the chairs are also non reflective, notice the two at the table and two stacks by the door (right stack having +1 chair).
+Not seen in the powerpoint is the wall with the whiteboard. 
+Since the white board reflects light better than the painted walls, you can identify where the whiteboard is located on the wall as well.
+In the end, I would not use this scanner in industry, as it is now outdated, but this project was a great introduction to LIDAR and 3D scanning. 
