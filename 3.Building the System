@@ -1,1 +1,16 @@
+Once all of the hardware was shipped and collected, I started on the build and followed the instructions (except the lower housing)
+You can find the guide that was used on the Scanse website or follow the link below.
 
+https://cdn.sparkfun.com/assets/e/5/6/7/7/3d_scanning_kit_assembly_guide.pdf
+                    
+The only alterations that I made to the instructions are as follows;
+    1. I did not use the suggested base/lower housing since I could not purchase the suggested battery.
+       I used an alterior battery pack and simply set it underneath the scanner while operating.
+       I then re designed the suggested housing to be a slim cover for the middle housing.
+       
+    2. I also used a different USB connector than the one suggested.
+       This did not change any of the operations/instructions, but I had to fabricate part of the opening on the middle housing for a proper fit.
+       
+    3. The last thing I found to make the build a little easier was to strip the USB cable that connects to the Scanse's Serial Adaptor.
+       I found that the stiff USB cable insulation was causing issues when the system tried to reach its limits during scans.
+       To mitigate this, I simply removed approximatly 2.5 inches of the thick insulation of the USB (leving the insulation on the actual wires).
