@@ -1,1 +1,22 @@
+To initiate a scan, the user must first upload the system code via the link provided. 
 
+https://github.com/scanse/sweep-3d-scanner
+
+Once the LATEST software is flashed to an SD, insert into the pi and a couple of changes needed to made on the pi.
+First connect to the pi and then open a terminal.
+Add the code below:
+
+  sudo raspi-config --expand-rootfs
+  sudo reboot
+
+Once the pi reboots, the system is ready for use.
+(There is also an option to set up a pi from scratch and then upload the libraries individually. I did not choose this option due to time restraints)
+
+To operate the system and perform a scan: 
+   1. Connect to pi's wifi connection Pi3-AP via phone or desktop.
+   2. Open a web browser and type http://172.24.1.1:8080 into the address bar.
+   3. Now the operations screen will show options to scan, test the system, manage files, and shutdown the system.
+   
+Once I tested the system, I found a room to scan, moved objects to the edge of the room, set up the scanner, and then left the room before starting.
+Wait till the scan is complete (the ap provides a percent complete bar) and then navigate to the manage files screen.
+Then you can simply download the file formatted in a .csv. 
